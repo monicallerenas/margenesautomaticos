@@ -1,0 +1,21 @@
+div{
+	width: 250px;
+	height: 250px;
+	border: 20px yellow solid;
+	padding: 30px 30px 15px 35px;
+	margin:10px;
+}
+p{
+	text-align: left;
+	font-family: Arial;
+	font-size: 18px;
+}
+.cubo1{
+	text-align: center;	
+}
+#cubo2{
+	margin: auto;
+}
+
+
+/* Escribe aqui tu CSS */
