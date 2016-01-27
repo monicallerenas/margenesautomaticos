@@ -4,11 +4,16 @@ div{
 	border: 20px yellow solid;
 	padding: 30px 30px 15px 35px;
 	margin:10px;
-}
+	background-image: url(
+	http://previews.123rf.com/images/turr17/turr171505/turr17150500575/39898570-Ornamento-geom-trico-Fondo-incons-til-del-vector-Textura-abstracta-para-fondos-de-pantalla-La-repeti-Foto-de-archivo.jpg); 
+bac}
 p{
+	color:purple;
 	text-align: left;
-	font-family: Arial;
+	font-family: comic;
 	font-size: 18px;
+	font-style: oblique;
+
 }
 .cubo1{
 	text-align: center;	
